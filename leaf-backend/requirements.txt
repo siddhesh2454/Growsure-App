@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+torchvision
+pillow
+python-multipart
+pandas
+ultralytics
+tqdm
+seaborn
