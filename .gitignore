@@ -1,0 +1,14 @@
+node_modules/
+.env
+__pycache__/
+*.pyc
+dist/
+build/
+.expo/
+serviceAccountKey.json
+serviceaccountkey.json
+*.torchscript
+.venv
+.venv
+__pycache__
+soil-backend/secrets/
